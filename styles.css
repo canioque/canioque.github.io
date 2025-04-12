@@ -10,7 +10,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 20px; /* Space between score and button */
 }
 
 .button-container {
