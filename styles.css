@@ -4,7 +4,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: white;
+    background: var(--tg-theme-bg-color);
+    color: var(--tg-theme-text-color);
 }
 
 .button{
